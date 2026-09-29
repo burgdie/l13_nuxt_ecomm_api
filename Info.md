@@ -14,3 +14,5 @@
   - composer require laravel/boost --dev
   - php artisan boost:install 
   
+  ## Datatables and commands
+  - php artisan make:migration add_role_to_users_table   
